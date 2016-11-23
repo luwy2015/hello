@@ -1,1 +1,1 @@
-hello Humans.
+hello Humans.这个工程是一个android 二维码扫描的工程，将扫描的结果在提示框显示。
